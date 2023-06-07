@@ -2,9 +2,10 @@
 
 Electronic adjustable laboratory power supply unit based on LM2596-ADJ DC-DC module. Output 1.7-30V, max 2A, with current limitation feature (Work-In-Progress).  
 
-Based on video playlists (spanish):  
-- [lalala](https://www.youtube.com/playlist?list=PLrgHsDQ2jwt0jt3FgAbFxksGTbsloWIvi) from [KrissElectronics](https://www.youtube.com/@XXXXXXXX) YouTube channel.
-- [lalala](https://www.youtube.com/playlist?list=PLrgHsDQ2jwt0jt3FgAbFxksGTbsloWIvi) from [Electgpl](https://www.youtube.com/@XXXXXXXX) YouTube channel.
+Based on videos (spanish):  
+- [Control de Corriente para Fuente DC-DC LM2596](https://www.youtube.com/watch?v=ucfL-aOuTAA) from [KrissElectronics](https://www.youtube.com/@KrissElectronics) YouTube channel.
+- [Fuente DC-DC LM2596, Control Externo Feedback](https://www.youtube.com/watch?v=mXjmIwHC1IA) from [Electgpl](https://www.youtube.com/@electgpl) YouTube channel.
+- [Control de Corriente para DC-DC con LM2596, CC/CV con LM358](https://www.youtube.com/watch?v=a19zc0bWBYk) from [Electgpl](https://www.youtube.com/@electgpl) YouTube channel.
 
 &nbsp;
 
