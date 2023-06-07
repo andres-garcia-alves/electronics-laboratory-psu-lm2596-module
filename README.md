@@ -1,6 +1,6 @@
 # Laboratory Power Supply Unit - LM2596 Module
 
-Electronic adjustable laboratory power supply unit based on LM2596-ADJ DC-DC module. Output 1.7-30V, max 2A, with current limitation feature (Work-In-Progress).  
+Electronic adjustable laboratory power supply unit based on LM2596 DC-DC Step-Down module. Output 1.7-30V, max 2A, with current limitation feature (Work-In-Progress).  
 
 Based on videos (spanish):  
 - [Control de Corriente para Fuente DC-DC LM2596](https://www.youtube.com/watch?v=ucfL-aOuTAA) from [KrissElectronics](https://www.youtube.com/@KrissElectronics) YouTube channel.
