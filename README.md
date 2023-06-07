@@ -10,7 +10,7 @@ Based on videos (spanish):
 &nbsp;
 
 This project use the following electronic components:
-- 1 x LM2596-ADJ DC-DC module (with current limitation).
+- 1 x LM2596 DC-DC Step-Down module (with current limitation).
 - 1 x Voltimeter+Amperimeter DSN-VC288.
 - 2 x Potenciometers B10K (lineal)
 - 2 x Borniers.
