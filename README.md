@@ -21,25 +21,25 @@ This project use the following electronic components:
 
 ### Screenshots
 
-| Diagram - Schematics                               | Diagram - PCB                                      |
-|----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/01-schematic-diagram.png)            | ![](Resources/02-pcb-diagram.png)                  |
+| Diagram - Schematics                                | Diagram - PCB                                       |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![](Resources/01-schematic-diagram.png)             | ![](Resources/02-pcb-diagram.png)                   |
 
-| Diagram - PCB Render                               | Diagram - PCB Render                               |
-|----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/03-pcb-render-front-side.png)        | ![](Resources/04-pcb-render-back-side.png)         |
+| Diagram - PCB Render                                | Diagram - PCB Render                                |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![](Resources/03-pcb-render-front-side.png)         | ![](Resources/04-pcb-render-back-side.png)          |
 
-| Prototype                                          | PCB Manufacturing                                  |
-|----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/05-photo-coming-soon.png)            | ![](Resources/06-photo-coming-soon.png)            |
+| Diagram - Voltimeter/Amperimeter wiring             | Diagram - Current control wiring                    |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![](Resources/05-voltimeter-amperimeter-wiring.png) | ![](Resources/06-photo-coming-soon.png)             |
 
-| PCB Assembly                                       | Project Assembly                                   |
-|----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/07-photo-coming-soon.png)            | ![](Resources/08-photo-coming-soon.png)            |
+| Case - 3D Model                                     | Project Assembly                                    |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![](Resources/07-case-3d-model.png)                 | ![](Resources/08-photo-coming-soon.png)             |
 
-| Project Final                                      | Project Final (YouTube video)                      |
-|----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/09-photo-coming-soon.png)            | ![](Resources/10-photo-coming-soon.png)            |
+| Project Final                                       | Project Final (YouTube video)                       |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![](Resources/09-photo-coming-soon.png)             | ![](Resources/10-photo-coming-soon.png)             |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
@@ -48,6 +48,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 ### Version History
 
 v1.0 (2023.06.07) - Initial release.  
+v1.1 (2023.06.28) - Update electronic diagrams, adding case 3D model.  
 
 &nbsp;
 
