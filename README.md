@@ -35,7 +35,7 @@ This project use the following electronic components:
 
 | Case - 3D Model                                     | Project Assembly                                    |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![](Resources/07-case-3d-model.png)                 | ![](Resources/08-photo-coming-soon.png)             |
+| ![](Resources/07-case-3d-model-01.png)              | ![](Resources/08-photo-coming-soon.png)             |
 
 | Project Final                                       | Project Final (YouTube video)                       |
 |-----------------------------------------------------|-----------------------------------------------------|
