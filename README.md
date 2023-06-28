@@ -1,6 +1,6 @@
 # Laboratory Power Supply Unit - LM2596 Module
 
-Electronic adjustable laboratory power supply unit based on LM2596 DC-DC Step-Down module. Output 1.7-30V, max 2A, with current limitation feature (Work-In-Progress).  
+Electronic adjustable laboratory power supply unit based on LM2596 DC-DC Step-Down module. Output 1.25-30V, max 2A, with current limitation feature (Work-In-Progress).  
 
 Based on videos (spanish):  
 - [Control de Corriente para Fuente DC-DC LM2596](https://www.youtube.com/watch?v=ucfL-aOuTAA) from [KrissElectronics](https://www.youtube.com/@KrissElectronics) YouTube channel.
@@ -31,7 +31,7 @@ This project use the following electronic components:
 
 | Diagram - Voltimeter/Amperimeter wiring             | Diagram - Current control wiring                    |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![](Resources/05-voltimeter-amperimeter-wiring.png) | ![](Resources/06-photo-coming-soon.png)             |
+| ![](Resources/05-voltimeter-amperimeter-wiring.png) | ![](Resources/06-current-control-wiring.png)        |
 
 | Case - 3D Model                                     | Project Assembly                                    |
 |-----------------------------------------------------|-----------------------------------------------------|
