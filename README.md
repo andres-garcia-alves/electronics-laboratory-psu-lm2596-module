@@ -33,9 +33,9 @@ This project use the following electronic components:
 |-----------------------------------------------------|-----------------------------------------------------|
 | ![](Resources/05-voltimeter-amperimeter-wiring.png) | ![](Resources/06-current-control-wiring.png)        |
 
-| Case - 3D Model                                     | Project Assembly                                    |
+| Case - 3D Model                                     | Prototype                                           |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![](Resources/07-case-3d-model-01.png)              | ![](Resources/08-photo-coming-soon.png)             |
+| ![](Resources/07-case-3d-model-01.png)              | ![](Resources/08-prototype-01.jpg)                  |
 
 | Project Final                                       | Project Final (YouTube video)                       |
 |-----------------------------------------------------|-----------------------------------------------------|
