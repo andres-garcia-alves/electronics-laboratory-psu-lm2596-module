@@ -14,6 +14,7 @@ This project use the following electronic components:
 - 1 x LM2596 DC-DC Step-Down module (with current limitation).
 - 1 x Voltimeter+Amperimeter DSN-VC288.
 - 2 x Potenciometers B10K (lineal)
+- 1 x Resistor 2.2ohm 15w.
 - 2 x Borniers.
 - 2 x 3 pins connectors.
 - 1 x DC Jack female connector.
