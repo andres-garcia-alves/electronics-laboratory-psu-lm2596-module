@@ -1,6 +1,6 @@
 # Laboratory Power Supply Unit - LM2596 Module
 
-Electronic adjustable laboratory power supply unit based on LM2596 DC-DC Step-Down module. Output 1.25-30V, max 2A, with current limitation feature (Work-In-Progress).  
+Electronic adjustable laboratory power supply unit based on LM2596 DC-DC Step-Down module. Output 1.25-30V, max 2A, with current limitation feature.  
 
 Based on videos (spanish):  
 - [Control de Corriente para Fuente DC-DC LM2596](https://www.youtube.com/watch?v=ucfL-aOuTAA) from [KrissElectronics](https://www.youtube.com/@KrissElectronics) YouTube channel.
@@ -37,9 +37,18 @@ This project use the following electronic components:
 |-----------------------------------------------------|-----------------------------------------------------|
 | ![](Resources/07-case-3d-model-01.png)              | ![](Resources/08-prototype-01.jpg)                  |
 
+| Project Assembly                                    | Project Assembly                                    |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![](Resources/09-project-assembly-02.jpg)           | ![](Resources/09-project-assembly-03.jpg)           |
+
+| Project Final                                       | Project Final                                       |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![](Resources/10-project-final-01.jpg)              | ![](Resources/10-project-final-02.jpg)              |
+
 | Project Final                                       | Project Final (YouTube video)                       |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![](Resources/09-photo-coming-soon.png)             | ![](Resources/10-photo-coming-soon.png)             |
+| ![](Resources/10-project-final-03.jpg)              | [![](Resources/10-project-final-04.jpg)](https://youtu.be/pehHUt3bOzo) |
+
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
@@ -49,6 +58,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 
 v1.0 (2023.06.07) - Initial release.  
 v1.1 (2023.06.28) - Update electronic diagrams, adding case 3D model.  
+v1.2 (2023.07.08) - Adding 'Resouces' folder.  
 
 &nbsp;
 
