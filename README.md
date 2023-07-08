@@ -59,7 +59,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 
 v1.0 (2023.06.07) - Initial release.  
 v1.1 (2023.06.28) - Update electronic diagrams, adding case 3D model.  
-v1.2 (2023.07.08) - Adding 'Resouces' folder.  
+v1.2 (2023.07.08) - Adding 'Resources' folder.  
 
 &nbsp;
 
